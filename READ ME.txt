@@ -1,0 +1,12 @@
+Move: A W S D
+
+Pick a gun/Open the door: E (being near it)
+
+Shoot: Left mouse click
+Aim: Right Mouse click
+
+The guns that you can pick up are on top of the table, being a crossbow and a riffle.
+
+There is ammo on the floor to your right.
+
+Current known bugs: error on the calculation of the ammo.
